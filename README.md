@@ -115,18 +115,9 @@
       
 - **상금**
     
-    ~1등 상금 : 10만 원~\
-    ~2등 상금 : 5만 원~
-
-    [ 참여자 평가 ]
-    - 최우수상: 5만 원
-    - 우수상: 3만 원
-
-    [ 알럼니 평가 ]
-    - 대상: 10만 원
     
 
 ## 참고 자료
-[2024 1st SMARTHON](https://github.com/sejongsmarcle/2024_1st_SMARTHON)
+[2024 1st SMARTHON](https://github.com/sejongsmarcle/2024_1st_SMARTHON) <br>
 [2025 2nd SMARTHON](https://github.com/sejongsmarcle/2025_2nd_SMARTHON)
 
