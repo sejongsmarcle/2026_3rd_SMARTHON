@@ -113,8 +113,8 @@
       
 - **상금**
     
-    ~1등 상금 : 10만 원~\
-    ~2등 상금 : 5만 원~
+    1등 상금 : 10만 원\
+    2등 상금 : 5만 원
 
 ## 참고 자료
 [2024 1st SMARTHON](https://github.com/sejongsmarcle/2024_1st_SMARTHON) <br>
