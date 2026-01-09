@@ -1,4 +1,5 @@
 # 2026 제3회 SMARTHON
+<img width="18898" height="3402" alt="Image" src="https://github.com/user-attachments/assets/895793c9-2b45-4d2e-8452-9bf8c26886d8" />
 
 ## 목표
 
